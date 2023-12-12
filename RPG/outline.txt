@@ -1,0 +1,7 @@
+Game Idea:
+    Spiritual succesor to One Peice Masion
+    has layers of cube rooms stacked on top of eachother
+    rooms are occupied by different tenants
+    tenants can cause stress/kindness to neighbouring tenants
+    player game loop is policing tenants and moving rooms around
+    

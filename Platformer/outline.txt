@@ -1,0 +1,7 @@
+story:
+rip off of the yawning portal from D&D
+
+gameplay:
+similar to icy tower, but descending
+You play as an adventurer and go down the floors deeper and deeper
+focus on puzzle, enemy combat, and platforming.

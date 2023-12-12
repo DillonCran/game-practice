@@ -1,0 +1,15 @@
+story:
+You are the son of a rental manager in a large city
+Your father is caught stealing pokemon cards and is sentinced to hard labour
+You are forced by the company your dad worked for to take his place and earn his freedom by paying the price of the pokemon cards
+
+gameplay:
+isometric hex grid of a building, starts on ground floor
+You can build rooms/stairs/elevators buy buying them in a shop and click/drag onto hexgrid building
+You manage tenant placement, tenants can either help or be annoying to their neighbouring tenants
+If tenants become too unappy, they will leave
+tenants pay rent at the end of time cycle
+The company gives you a list of potential tenants to move into empty rooms, sometimes a theif can be in that list
+You must chase theives away by running your player character around the building
+You can also tell tenants to be quiet/temporarily change their behaviour
+There is no limit to how tall you can build the tower.
